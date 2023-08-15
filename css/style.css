@@ -137,13 +137,13 @@ body {
 /* FOOTER */
 .attribution {
     font-size: 11px; text-align: center;
-	color: var(--color-very-dark-cyan);
+	color: #000;
 	margin-top: 10px;
 }
 
 .attribution a {
     text-decoration: none;
-    color: var(--color-very-dark-cyan);
+    color: #000;
 }
 
 .attribution a:hover {
@@ -171,7 +171,7 @@ body {
 	
 	.attribution {
 		text-decoration: none;
-		color: var(--color-very-dark-cyan);
+		color: #000;
 		position: fixed;
 		bottom: 0;
 		width: 100%;
